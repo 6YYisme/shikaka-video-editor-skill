@@ -1,0 +1,7 @@
+interface:
+  display_name: "食卡卡剪辑环境设置"
+  short_description: "检查、安装并验证食卡卡视频剪辑所需的本机完整运行环境"
+  default_prompt: "Use $shikaka-video-editing-setup to inspect my machine and prepare the 食卡卡 video-editing environment."
+
+policy:
+  allow_implicit_invocation: true
