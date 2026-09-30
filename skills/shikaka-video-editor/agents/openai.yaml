@@ -1,7 +1,0 @@
-interface:
-  display_name: "食卡卡剪辑助理"
-  short_description: "把食卡卡产品素材剪成可审核、可复用的竖屏宣传短视频"
-  default_prompt: "Use $shikaka-video-editor to turn my 食卡卡 footage into a polished vertical promo video."
-
-policy:
-  allow_implicit_invocation: true
